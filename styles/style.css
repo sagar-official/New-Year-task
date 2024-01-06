@@ -108,3 +108,106 @@ border: 0;
     margin-right: 50px;
     margin-top: 10px;
 }
+
+
+
+.gradient_background{
+width: 1140px;
+height: 300px;
+background: url('../images/watch.png');
+border-radius: 8px;
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 90%);
+margin: 30px 230px; */
+opacity: -999;
+
+}
+.gradient_dis{
+color: #FFF;
+font-size: 40px;
+font-weight: 700;
+padding: 60px 617px 147px 60px;
+}
+
+.Contact_btn{
+margin-top: 0px;
+color: #F15B22;
+text-align: center;
+font-size: 20px;
+font-weight: 600;
+padding: 15px 25px;
+border: 1px solid #ddd;
+border-radius: 10px;
+margin-top: 15px;
+} 
+
+.footer_section{
+width: 1300px;
+height: 377px;
+background: #151414;
+align-items: center;
+padding: 0px 200px;
+display: flex;
+color: white;
+}
+
+
+.footer_title{
+    font-size: 45px;
+    font-weight: 700;
+}
+.footer_des{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.footer_email{
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+
+.footer_phone{
+font-style: normal;
+font-weight: 400;
+line-height: 26px; 
+}
+.chobiwala{
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+ /* width: 175px;
+height: 46px;
+} */
+.left_side{
+    width: 50%;
+}
+
+.Subscribe{
+color: #FFF;
+font-size: 25px;
+font-weight: 600;
+margin-bottom: 20px;
+}
+.deh_email_sala{
+border-radius: 8px;
+border: 1px solid #FFF;
+width: 325px;
+height: 64px;
+color: #F3F3F3;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 10px;
+border: 0;
+}
+
+.thip_mar{
+ width: 170.106px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+color: #F15B22;
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 90px;
+}
