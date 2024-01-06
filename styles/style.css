@@ -89,3 +89,22 @@ border: 0;
 .achievement a{
     text-decoration: none;
 }
+
+   
+.section_title{
+    text-align: center;
+    /* margin-bottom: 10px; */
+    padding: 50px 230px;
+   
+}
+
+.plan_continer{
+    display: flex;
+   /* position: relative; */
+   justify-content: center;
+  
+}
+.plan_continer .icons{
+    margin-right: 50px;
+    margin-top: 10px;
+}
