@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.header{
+    background: url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+.header_contain{
+    width: 525px;
+    position: relative;
+    top: 30%;
+    left: 50%;
+
+}
+.nav_title{
+color:#151414;
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-weight: 700;
+}
+
+.nav_discription{
+color: #444343;
+text-align: right;
+font-size: 16px;;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+
+.first_btn{
+position: relative;
+background: #F15B22;
+left: 70%;
+margin-top: 30px;
+border-radius: 5px;
+width: 160px;
+height: 64px;
+color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+border: 0;
+}
+
+.profile_pic{
+    /* margin-right: 40px;     */
+}
+
+.main_class{
+    display: flex;
+    margin-top: 140px;
+    align-items: center;
+    margin:130px 230px 140px 270px;
+   
+}
+.profile_title {  color: black;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 130px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    
+}
+
+.profile_discription{
+    margin-top: 26px;
+    color: #444343;
+    margin-left: 130px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+
+.achievement{
+     margin-left: 150px;
+    margin-top: 20px;
+    color:#444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.achievement a{
+    text-decoration: none;
+}
