@@ -51,7 +51,9 @@ border: 0;
 }
 
 .profile_pic{
-    /* margin-right: 40px;     */
+/* margin-right: 40px;     */
+
+
 }
 
 .main_class{
@@ -114,11 +116,13 @@ border: 0;
 .gradient_background{
 width: 1140px;
 height: 300px;
-background: url('../images/watch.png');
 border-radius: 8px;
-background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 90%);
-margin: 30px 230px; */
-opacity: -999;
+background: linear-gradient(90deg, #2cabff 0%, rgba(143, 198, 243, 0) 100%),
+url(../images/watch.png);
+background-size: cover;
+background-repeat: no-repea;
+margin: 30px 230px; 
+background-position: bottom right, left;
 
 }
 .gradient_dis{
